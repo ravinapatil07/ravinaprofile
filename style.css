@@ -1,0 +1,29 @@
+body{
+    background: peachpuff;
+}
+
+h1{
+    color: greenyellow;
+    background-color: brown;
+
+}
+
+img{
+    border-radius: 30%;
+}
+
+.pro-img{
+    border: slategrey;
+    border-radius: 30%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: hotpink;
+}
+h3{
+    color: rgb(48, 48, 9);
+}
+.copy
+{
+    font-style: normal;
+    color:black;
+}
